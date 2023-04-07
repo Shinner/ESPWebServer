@@ -4,17 +4,17 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:12544",
-      "sslPort": 0
+      "applicationUrl": "http://localhost:45117",
+      "sslPort": 44354
     }
   },
   "profiles": {
-    "ESPWebServer": {
+    "AniyaWebService": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:5167",
+      "applicationUrl": "https://localhost:7206;http://localhost:5298",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

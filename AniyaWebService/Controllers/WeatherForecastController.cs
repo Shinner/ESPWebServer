@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace ESPWebServer.Controllers
+namespace AniyaWebService.Controllers
 {
     [ApiController]
     [Route("[controller]")]
